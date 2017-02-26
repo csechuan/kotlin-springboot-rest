@@ -1,5 +1,4 @@
 group 'csechuan'
-version '1.0-SNAPSHOT'
 
 buildscript {
     ext.kotlin_version = '1.0.6'
@@ -25,8 +24,8 @@ apply plugin: 'org.springframework.boot'
 apply plugin: 'docker'
 
 jar {
-    baseName = 'kotlin-springboot-rest'
-    version =  '1.0-SNAPSHOT'
+    baseName = 'springboot-kotlin-demo'
+    version =  'v1'
 }
 
 sourceCompatibility = 1.8
