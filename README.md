@@ -1,2 +1,5 @@
 # kotlin-springboot-rest
-This is a demo project of RESTful API using Spring Boot and Kotlin.
+
+Demonstrates:
+- using Kotlin to write a RESTful API
+- using Docker to run the application
