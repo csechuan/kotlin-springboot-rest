@@ -31,4 +31,3 @@ docker images
 Once the application is running, you can:
 * open <http://localhost:8080> and you should see some json
 
-***
