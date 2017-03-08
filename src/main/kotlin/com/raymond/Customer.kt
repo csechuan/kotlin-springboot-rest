@@ -1,4 +1,4 @@
-package com.raymond.demo
+package com.raymond
 
 import javax.persistence.Entity
 import javax.persistence.GeneratedValue

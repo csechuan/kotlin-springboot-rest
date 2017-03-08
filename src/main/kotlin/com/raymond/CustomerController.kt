@@ -1,4 +1,4 @@
-package com.raymond.demo
+package com.raymond
 
 import org.springframework.web.bind.annotation.GetMapping
 import org.springframework.web.bind.annotation.PathVariable

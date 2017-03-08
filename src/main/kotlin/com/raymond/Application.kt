@@ -1,4 +1,4 @@
-package com.raymond.demo
+package com.raymond
 
 import org.slf4j.LoggerFactory
 import org.springframework.boot.CommandLineRunner
