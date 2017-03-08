@@ -1,5 +1,7 @@
 package com.raymond
 
+import com.raymond.core.entity.Customer
+import com.raymond.data.db.CustomerRepository
 import org.slf4j.LoggerFactory
 import org.springframework.boot.CommandLineRunner
 import org.springframework.boot.SpringApplication
