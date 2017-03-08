@@ -2,7 +2,7 @@ group 'csechuan'
 
 buildscript {
     ext.kotlin_version = '1.1.0'
-    ext.springboot_version = '1.5.1.RELEASE'
+    ext.springboot_version = '1.5.2.RELEASE'
 
     repositories {
         jcenter()
